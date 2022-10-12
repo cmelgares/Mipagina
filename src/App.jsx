@@ -9,7 +9,7 @@ function App() {
       <div className='navbar'>
         <img src={logo} className='logo'/>
         <ul>
-          <li><a href="#">Home</a></li>
+          <li><a href="#">Homes</a></li>
           <li><a href="#">about</a></li>
           <li><a href="#">Contact</a></li>
           <li><a href="#">Resources</a></li>
