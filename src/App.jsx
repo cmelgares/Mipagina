@@ -12,7 +12,7 @@ function App() {
           <li><a href="#">Homes</a></li>
           <li><a href="#">Sobre</a></li>
           <li><a href="#">Contactos</a></li>
-          <li><a href="#">Resources</a></li>
+          <li><a href="#">Recursos</a></li>
         </ul>
         <LanguageSelector />
       </div>
