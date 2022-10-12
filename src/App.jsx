@@ -11,7 +11,7 @@ function App() {
         <ul>
           <li><a href="#">Homes</a></li>
           <li><a href="#">about</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#">Contacts</a></li>
           <li><a href="#">Resources</a></li>
         </ul>
         <LanguageSelector />
