@@ -10,8 +10,8 @@ function App() {
         <img src={logo} className='logo'/>
         <ul>
           <li><a href="#">Homes</a></li>
-          <li><a href="#">about</a></li>
-          <li><a href="#">Contacts</a></li>
+          <li><a href="#">Sobre</a></li>
+          <li><a href="#">Contactos</a></li>
           <li><a href="#">Resources</a></li>
         </ul>
         <LanguageSelector />
